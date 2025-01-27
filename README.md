@@ -37,7 +37,7 @@
 ## **Installation**
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/OpinionMapper.git
+   git clone https://github.com/kaleharshavardhan07/Sentiment_analysisi-ML-MODEL
    ```
 2. Install the required dependencies:  
    ```bash

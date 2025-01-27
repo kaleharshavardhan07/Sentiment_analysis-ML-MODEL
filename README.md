@@ -37,7 +37,7 @@
 ## **Installation**
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/kaleharshavardhan07/Sentiment_analysisi-ML-MODEL
+   git clone https://github.com/kaleharshavardhan07/Sentiment_analysis-ML-MODEL
    ```
 2. Install the required dependencies:  
    ```bash
